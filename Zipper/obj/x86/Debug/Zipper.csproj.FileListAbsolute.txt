@@ -1,0 +1,6 @@
+c:\development\Zipper\Zipper\bin\Debug\Zipper.exe
+c:\development\Zipper\Zipper\bin\Debug\Zipper.pdb
+c:\development\Zipper\Zipper\bin\Debug\C1.C1Zip.4.dll
+c:\development\Zipper\Zipper\bin\Debug\C1.C1Zip.4.xml
+c:\development\Zipper\Zipper\obj\x86\Debug\Zipper.exe
+c:\development\Zipper\Zipper\obj\x86\Debug\Zipper.pdb
